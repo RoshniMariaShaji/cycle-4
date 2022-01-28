@@ -57,7 +57,7 @@ class Manager extends Employee
         System.out.println("Department:"+department);
     }
 }
-class abc
+class emp
 {
     public static void main(String args[])
     {
